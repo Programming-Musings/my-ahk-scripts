@@ -15,9 +15,11 @@
 
 ### 使用方法
 1.  确保电脑已安装 [AutoHotkey v2](https://autohotkey.com)。
-2.  下载或复制本仓库中的 `Translation_002.ahk` 文件。
-3.  用文本编辑器（如 Notepad++、VS Code）打开文件，在顶部的 `global API_KEY := "*********************"` 处，将星号替换为你自己的 **DeepSeek API Key**。
-4.  双击运行脚本，即可在全系统通过快捷键随时翻译。
+2.  如果没有安装的话，本仓库已上传该软件的windows版本，可供下载。
+3.  下载或复制本仓库中的 `Translation_002.ahk` 文件。
+4.  用文本编辑器（如 Notepad++、VS Code）打开文件，在顶部的 `global API_KEY := "*********************"` 处，将星号替换为你自己的 **DeepSeek API Key**。
+5.  https://platform.deepseek.com/sign_in  可在该网页 申请 **DeepSeek API Key**
+6.  双击运行脚本，即可在全系统通过快捷键随时翻译。
 
 ---
 
