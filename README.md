@@ -15,11 +15,11 @@
 
 ### 使用方法
 1.  确保电脑已安装 [AutoHotkey v2](https://autohotkey.com)。
-2.  如果没有安装的话，本仓库已上传该软件的windows版本，可供下载。
+2.  如果没有安装，本仓库已上传该软件的 Windows 版本安装包（`AutoHotkey_2.0.26_setup.exe`），可直接下载安装。
 3.  下载或复制本仓库中的 `Translation_002.ahk` 文件。
 4.  用文本编辑器（如 Notepad++、VS Code）打开文件，在顶部的 `global API_KEY := "*********************"` 处，将星号替换为你自己的 **DeepSeek API Key**。
-5.  https://platform.deepseek.com/sign_in  可在该网页 申请 **DeepSeek API Key**
-6.  双击运行脚本，即可在全系统通过快捷键随时翻译。
+5.  访问 [DeepSeek 开放平台](https://platform.deepseek.com/sign_in) 即可申请属于你的 **DeepSeek API Key**。
+6.  双击运行脚本，即可在全系统通过快捷键随时触发翻译。
 
 ---
 
@@ -34,6 +34,8 @@ A lightweight desktop translation script powered by **AutoHotkey v2** and the **
 
 ### How to Use
 1.  Make sure [AutoHotkey v2](https://autohotkey.com) is installed on your Windows system.
-2.  Download or copy the `Translation_001.ahk` file from this repository.
-3.  Open the file with a text editor (e.g., Notepad++, VS Code), locate `global API_KEY := "*********************"` at the top, and replace the asterisks with your actual **DeepSeek API Key**.
-4.  Double-click the script to run it. You can now use the hotkeys anywhere across your system.
+2.  If not installed, you can download the Windows installer (`AutoHotkey_2.0.26_setup.exe`) directly from this repository.
+3.  Download or copy the `Translation_002.ahk` file from this repository.
+4.  Open the file with a text editor (e.g., Notepad++, VS Code), locate `global API_KEY := "*********************"` at the top, and replace the asterisks with your actual **DeepSeek API Key**.
+5.  Visit the [DeepSeek Platform](https://platform.deepseek.com/sign_in) to apply for your own **DeepSeek API Key**.
+6.  Double-click the script to run it. You can now use the hotkeys anywhere across your system.
